@@ -1,0 +1,45 @@
+@import url('./fonts.css');
+
+:root{
+    --primary-color: #233755;
+    --secondary-color: #0B4AA8;
+    --nav-color: #4F95FD;
+    --txt-color: #0B4AA8;
+    --body: #F3F3F3;
+    --white: #fff;
+    --primary-font: "Inter";
+    --secondary-font: "EB Garamond";
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background: var(--body);
+    font-family: var(--primary-font);
+}
+a{
+    text-decoration: none;
+}
+ul {
+    list-style: none;
+}
+h1,h2,h3,h4,h5,h6, p {
+    margin: 0;
+}
+
+/* header start */
+
+/* header end */
+
+
+
+/* main start */
+
+/* main end */
+
+
+
+/* footer start */
+
+/* footer end */
